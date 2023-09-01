@@ -1,0 +1,13 @@
+WRITEUPS
+
+T1-#Basic u write ls to see all the files then cat it out
+T2-u list all out with ls then cat it out with (cat ./-)
+T3-list it all out then either tab in the rest of the char with or write it individually as (space\ in\ the\ name)
+T4- list it out with ls -a and then just cat it out
+T5-using chdir or cd for short and cat out the req thing
+T6-cd inside the directory and use find command to find the given criterias such as (find . -type f -size 1033c ! executable)
+T7-rather than going into any directory we use ' / ' and write out the given criteria with find
+T8-cat out data.txt and grep it with -A1 millionth meaning it will find the word and the next line with it
+T9- we sort it out first then use uniq -c which counts the number of occurences
+T10- we just string it out then grep '=='
+
