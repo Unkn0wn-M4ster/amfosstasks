@@ -19,7 +19,7 @@ I would put my whole hearted dedication into the club , The concept of Open sour
 
 
 
-#Thoughs on the process 
+# Thoughs on the process 
 So far its been smooth 
 (totally didnt have to ask the incharge people to send another link since i missed to join mine)
 And props on making the dc server good to tbh  
