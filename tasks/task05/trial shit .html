@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dark Background with Full-Width Purple Line</title>
+    <style>
+        /* Define a class for the dark background */
+        .dark-bg {
+            background-color: #333; /* Dark background color */
+            color: white; /* Text color on the dark background */
+            padding: 20px; /* Add some padding around the content */
+            position: relative; /* Enable relative positioning for the pseudo-element */
+        }
+
+        /* Define a pseudo-element for the full-width purple line at the bottom */
+        .dark-bg::after {
+            content: "";
+            display: block;
+            background-color: purple; /* Purple line color */
+            height: 10px; /* Adjust the height of the line */
+            width: 100%; /* Make the line span the entire width */
+            position: absolute;
+            bottom: 0;
+            left: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="dark-bg">
+        <h1>Dark Background with Full-Width Purple Line</h1>
+        <p>This is some content with a dark background.</p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Shop</title>
+    <link href="style.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="your-istria-font-stylesheet.css">
+    <style>
+        body {
+            background-color: #190338;
+            text-align: center;
+            overflow: auto;
+            margin: 0;
+        }
+        .top-left-div {
+            position: absolute;
+            top: 10px;
+        }
+
+        .top-right-div {
+            display: flex;
+            align-items: center;
+        }
+
+        .top-right-div a {
+            margin-right: 30px;
+        }
+
+        .inline-items {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-start;
+            margin: 80px auto 0;
+            max-width: 1200px;
+        }
+        .inline-item {
+            width: calc(23% - 2px); /* Reduce the width to make products narrower */
+            margin: 0 1%; /* Add a small margin between products */
+            position: relative;
+            margin-bottom: 12px;
+            border-radius: 10px;
+            box-sizing: border-box;
+        }
+        
+        .image-container {
+            background-color: #160426;
+            padding: 5%;
+            width: 165px;
+            height: 250px;
+            border-radius: 20px;
+            border-bottom: 20px solid purple;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+        }
+
+        .image-text {
+            color: white;
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-bottom: 10px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .inline-item img {
+            width: 65%;
+            height: 55%;
+            max-height: 100%;
+            border-radius: 15px;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+    <div class="top-part">
+    <div class="top-left-div">
+        <a href="imagine.html" ><img src="logo.png" width="50" height="45"></a>
+    </div>
+    <div class="top-right-div">
+        <a href="https://open.spotify.com/"><img src="spotify.png" width="40" height="40" style="margin-right: 30px;"></a>
+        <a href="https://youtube.com/"><img src="youtube.svg" width="40" height="40" style="margin-right: 30px;"></a>
+        <a href="https://twitter.com/"><img src="twitter.svg" width="40" height="40" style="margin-right: 30px;"></a>
+        <a href="https://www.instagram.com/"><img src="instagram.svg" width="40" height="40" style="margin-right: 30px;"></a>
+    </div>
+    </div>
+    </header>
+    <div class="inline-items">
+        <div class="inline-item">
+            <div class="image-container">
+                <img src="item_cards/origins_vinyl.png" alt="Product 1">
+                <p class="image-text"><b>ORIGINS VINYL + DIGITAL ALBUM</b><br><b>₹2800</b></p>
+            </div>
+        </div>
+        <div class="inline-item">
+            <div class="image-container">
+                <img src="item_cards/floral_hoodie.png" alt="Product 2">
+                <p class="image-text"><b>FLORAL LOGO TAN HODDIE</b><br><b>₹3200</b></p>
+            </div>
+        </div>
+        <div class="inline-item">
+            <div class="image-container">
+                <img src="item_cards/next_to_me_poster.png" alt="Product 3">
+                <p class="image-text"><b>NEXT TO ME A3 POSTER</b><br><b>₹1800</b></p>
+            </div>
+        </div>
+        <div class="inline-item">
+            <div class="image-container">
+                <img src="item_cards/cap.png" alt="Product 4">
+                <p class="image-text"><b>VEGAS TRUCKER HAT</b><br><b>₹1500</b></p>
+            </div>
+        </div>
+        <div class="inline-item">
+            <div class="image-container">
+                <img src="item_cards/imagine_poster.png" alt="Product 5">
+                <p class="image-text"><b>IMAGINE A1 POSTER</b><br><b>₹1800</b></p>
+            </div>
+        </div>
+        <div class="inline-item">
+            <div class="image-container">
+                <img src="item_cards/mercury_I.png" alt="Product 6">
+                <p class="image-text"><b>mercury_I DELUXE CD</b><br><b>₹1800</b></p>
+            </div>
+        </div>
+        <div class="inline-item">
+            <div class="image-container">
+                <img src="item_cards/keychain.png" alt="Product 7">
+                <p class="image-text"><b>Imagine Dragons chain</b><br><b>₹X600</b></p>
+            </div>
+        </div>
+        <div class="inline-item">
+            <div class="image-container">
+                <img src="item_cards/vintage_hoodie.png" alt="Product 8">
+                <p class="image-text"><b>VINTAGE GRAPHIC HODDIE</b><br><b>₹3400</b></p>
+            </div>
+        </div>
+        <div class="inline-item">
+            <div class="image-container">
+                <img src="item_cards/mercury_II.png" alt="Product 9">
+                <p class="image-text"><b>mercury_II</b><br><b>₹2200</b></p>
+            </div>
+        </div>
+        <div class="inline-item">
+            <div class="image-container">
+                <img src="item_cards/bottle.png" alt="Product 10">
+                <p class="image-text"><b>VINTAGE VEGAS BOTTLE</b><br><b>₹2000</b></p>
+            </div>
+        </div>
+        <div class="inline-item">
+            <div class="image-container">
+                <img src="item_cards/cassette.png" alt="Product 11">
+                <p class="image-text"><b>NIght vision cassette</b><br><b>₹1100</b></p>
+            </div>
+        </div>
+        <div class="inline-item">
+            <div class="image-container">
+                <img src="item_cards/tote.png" alt="Product 12">
+                <p class="image-text"><b>BONES TREAT BAG</b><br><b>₹1500</b></p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

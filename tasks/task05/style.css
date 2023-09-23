@@ -1,0 +1,75 @@
+body {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Vertically center and align at the bottom */
+    align-items: center; /* Horizontally center */
+    height: 100vh; /* Ensure full viewport height */
+    margin: 0;
+    position: relative; /* Add relative positioning to the body */
+}
+
+.top-left-div {
+    position: absolute;
+    top: 10px;
+    left: 0;
+}
+
+
+.bgcolor{
+    background-color: cadetblue;
+}
+
+
+.images {
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    background-color: #eee;
+    padding: 1rem;
+    flex-wrap: wrap;
+  }
+  
+  .images img {
+    width: 0rem;
+    height: auto
+  }
+
+.top-right-div {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+    position: relative;
+    margin-top: auto;
+     /* Push the image up by 150 pixels from the bottom */
+}
+
+.ez {
+    text-align: center;
+    position: relative;
+    margin-top: 5px; /* Reduce margin-top to bring k.jpeg even closer */
+    margin-bottom: 50px;
+}
+
+H1 {
+    text-align: center;
+    position: relative;
+    color: white;
+    font-family: 'Istria', sans-serif; /* Apply the Istria font family */
+    font-size: 52px; /* Apply a custom font size */
+}
+
+.top-part {
+    background-color: #160426;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60px; /* Adjust the height as needed */
+}
