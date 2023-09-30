@@ -45,7 +45,7 @@ And props on making the dc server good to tbh
 | [Task_12]|  Godot | Not Attempted|
 | [Task_13](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task13)   |  Vim | Completed |
 | [Task_14](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task14)   |  Bandit | Completed |
-| [Task_15](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task15)   | Project Euler| 4/5 Qns|
+| [Task_15](https://github.com/Unkn0wn-M4ster/amfosstasks/tree/main/tasks/task15)   | Project Euler| 4/5 Qns|
 
 
 
