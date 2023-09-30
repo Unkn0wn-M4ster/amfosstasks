@@ -35,7 +35,7 @@ And props on making the dc server good to tbh
 | [Task_00](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task02)   | Installing Ubuntu | Completed |
 | [Task_03](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task03)   | Hello,World | Completed |
 | [Task_04](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task04)   | Competitive Programming |Done 5 Qns|
-| [Task_05](https://github.com/navaneeth0041/amfoss-tasks/tree/master/Task_05)   | Hypertext Mockup Language | Completed |
+| [Task_05](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task05)   | Hypertext Mockup Language | Completed |
 | [Task_06](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task06)   | Cricket Vault | Completed |
 | [Task_07](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task07)   |  AK-47℃ | Completed |
 | [Task_08](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task08)   | Poke-Search! | Completed |
