@@ -30,7 +30,7 @@ And props on making the dc server good to tbh
 
 | Task List | Description | Status |
 | :-:       | :-:         | :-:    |
-| [Task_00](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/task0)   | Installing Ubuntu | Completed |
+| [Task_0](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/task0)   | Installing Ubuntu | Completed |
 | [Task_01](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task01)   | Terminal Wizard | Completed |
 | [Task_00](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task02)   | Installing Ubuntu | Completed |
 | [Task_03](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task03)   | Hello,World | Completed |
