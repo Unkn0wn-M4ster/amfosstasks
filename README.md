@@ -23,3 +23,29 @@ I would put my whole hearted dedication into the club , The concept of Open sour
 So far its been smooth 
 (totally didnt have to ask the incharge people to send another link since i missed to join mine)
 And props on making the dc server good to tbh  
+
+
+
+#### TASKS DONE
+
+| Task List | Description | Status |
+| :-:       | :-:         | :-:    |
+| [Task_00](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/README.md)   | Installing Ubuntu | Completed |
+| [Task_01](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task01)   | Terminal Wizard | Completed |
+| [Task_00](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task02)   | Installing Ubuntu | Completed |
+| [Task_03](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task03)   | Hello,World | Partially Completed |
+| [Task_04](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task04)   | Competitive Programming |Attempted 4 Qns|
+| [Task_05](https://github.com/navaneeth0041/amfoss-tasks/tree/master/Task_05)   | Hypertext Mockup Language | Completed |
+| [Task_06](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task06)   | Cricket Vault | Completed |
+| [Task_07](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task07)   |  AK-47℃ | Completed |
+| [Task_08](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task08)   | Poke-Search! | Completed |
+| [Task_09](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task09)   | GeoQuest | Attempeted |
+| Task_10  |  RuskOS |Not Attempted|
+| Task_11  |  TinkerCAD |Not Attempted|
+| [Task_12](https://github.com/navaneeth0041/amfoss-tasks/tree/master/Task_12)   |  Godot | Completed |
+| [Task_13](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task13)   |  Vim | Completed |
+| [Task_14](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task14)   |  Bandit | Completed |
+| [Task_15](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task15)   | Project Euler| 4/5 Qns|
+
+
+
