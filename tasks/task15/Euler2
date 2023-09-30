@@ -1,0 +1,13 @@
+#!/bin/python3
+
+import sys
+
+t = int(input().strip())
+for a0 in range(t):
+    n = int(input().strip())
+    a, b, sum_ = 0, 1, 0
+    while b <= n:
+        if b % 2 == 0:
+            sum_ += b
+        a, b = b, a + b
+    print(sum_)
