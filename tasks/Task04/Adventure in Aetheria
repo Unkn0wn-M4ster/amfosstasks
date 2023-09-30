@@ -1,0 +1,9 @@
+n = int(input())
+times = list(map(int, input().split()))
+
+min_time = min(times)
+
+if times.count(min_time) > 1:
+    print("Still Aetheria")
+else:
+    print(times.index(min_time) + 1)

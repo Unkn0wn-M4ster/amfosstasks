@@ -1,0 +1,18 @@
+word = "hello"
+t = input()
+j = 0
+c = ""
+
+for i in t:
+    if i == word[j]:
+        j += 1
+        c += i
+        if j == len(word):
+            if c == word:
+                print('YES')
+                break
+    else:
+        continue
+
+if j != len(word):
+    print('NO')

@@ -1,0 +1,1 @@
+Even tho it was just like html css and things like this took while because of small things like the box kept getting weird and things like that but overall a decent project not the most satistifed with my results but it is what it is

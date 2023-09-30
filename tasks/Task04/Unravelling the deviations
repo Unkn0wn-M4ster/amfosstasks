@@ -1,0 +1,13 @@
+t = int(input())
+for p in range(t):
+    l = input('').split()
+    c = 0
+    for i in range(len(l)):
+        word = l[i]
+        if len(word) != len('amfoss'):
+            c += len(word)
+        else:
+            for j in range(len(word)):
+                if word[j] != 'amfoss'[j]:
+                    c += 1
+    print(c)

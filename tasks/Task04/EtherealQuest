@@ -1,0 +1,15 @@
+n = int(input())
+sx = 0
+sy = 0
+sz = 0
+
+for _ in range(n):
+    xi, yi, zi = map(int, input().split())
+    sx += xi
+    sy += yi
+    sz += zi
+
+if sx == 0 and sy == 0 and sz == 0:
+    print("YES")
+else:
+    print("NO")
