@@ -53,5 +53,7 @@ And props on making the dc server good to tbh
 | [Task_14](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task14)   |  Bandit | Completed |
 | [Task_15](https://github.com/Unkn0wn-M4ster/amfosstasks/tree/main/tasks/task15)   | Project Euler| 4/5 Qns|
 
+Theres Nothing WE can do now
+![napolean](https://i.kym-cdn.com/photos/images/original/002/665/991/104.jpg)
 
 
