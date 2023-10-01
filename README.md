@@ -32,7 +32,7 @@ So far, it has been smooth, except for the minor hiccup where I missed joining a
 | :-:       | :-:         | :-:    |
 | [Task_0](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task00)   | Installing Ubuntu | Completed |
 | [Task_01](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task01)   | Terminal Wizard | Completed |
-| [Task_00](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task02)   | Installing Ubuntu | Completed |
+| [Task_02](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task02)   | Lessgo Hugo| Completed |
 | [Task_03](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task03)   | Hello, World | Completed |
 | [Task_04](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task04)   | Competitive Programming | 5 Questions Done |
 | [Task_05](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task05)   | Hypertext Mockup Language | Completed |
