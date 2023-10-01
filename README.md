@@ -11,6 +11,8 @@ But some of my qualitites which might be aligned to the club is ->
 - Disciplined (If and when required I will put my heart and soul into my work)
 - Good Communication Skills
 - Totally a good sense of humor (Dont question it)
+- consistent ( Even tho I wont be able to do things I would try my hardest)
+- Motivated (Generally im motivated If I have a goal I shall finish)
 
 ## 2 What are your goals for the next six months? How will you accomplish them?
 
