@@ -38,4 +38,4 @@
 - `cd <directory_path>`: Changes the current working directory to the specified directory.
 - `ls`: Lists files and directories in the current directory.
 
-- `mkdir` <directory_name>:Create a new directory 
+- `mkdir <directory_name>`:Create a new directory 
