@@ -4,15 +4,16 @@ To whom it may concern,
 
 I am Kartik T Nair, currently pursuing B.Tech in CSE at Amrita University. My hobbies range from gaming to exploring new technologies.
 
-## 1
+## 1 Why should we choose you?
 
 Explaining why you should choose me is challenging since I'm not aware of others' capabilities. However, I assure you of my wholehearted dedication to everything I do. (P.S. I'll be able to vibe about LOTR.)
 
-## 2
+## 2 What are your goals for the next six months? How will you accomplish them?
+
 
 My primary goal is to get into the club, after which I would love to make wholehearted contributions. However, I am not in a position to specify how I can contribute at the moment.
 
-## 3
+## 3 How will you contribute back to the club?
 
 I am enthusiastic about contributing to the club with my wholehearted dedication. The concept of open-source software truly intrigues me; hence, I would love to get involved. (Linux has definitely reinforced this mindset for me.)
 
