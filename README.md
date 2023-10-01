@@ -19,12 +19,6 @@ I genuinely enjoyed doing most of the tasks even tho some wanted to make me go i
 This was me when things didnt work as intended
 
 
-
-![Cute Cat](https://imgflip.com/s/meme/Cute-Cat.jpg)
-
-
-
-
 # Thoughs on the process 
 So far its been smooth 
 (totally didnt have to ask the incharge people to send another link since i missed to join mine)
@@ -52,8 +46,5 @@ And props on making the dc server good to tbh
 | [Task_13](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task13)   |  Vim | Completed |
 | [Task_14](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task14)   |  Bandit | Completed |
 | [Task_15](https://github.com/Unkn0wn-M4ster/amfosstasks/tree/main/tasks/task15)   | Project Euler| 4/5 Qns|
-
-Theres Nothing WE can do now
-![napolean](https://i.kym-cdn.com/photos/images/original/002/665/991/104.jpg)
 
 
