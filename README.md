@@ -1,7 +1,4 @@
 # AmFoss
-
-To whom it may concern,
-
 I am Kartik T Nair, currently pursuing B.Tech in CSE at Amrita University. My hobbies range from gaming to exploring new technologies.
 
 ## 1 Why should we choose you?
