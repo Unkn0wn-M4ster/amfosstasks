@@ -1,1 +1,2 @@
-Even tho it was just like html css and things like this took while because of small things like the box kept getting weird and things like that but overall a decent project not the most satistifed with my results but it is what it is
+# Task 5
+Working on it felt a bit like dealing with HTML, CSS, and all that stuff – took longer than expected, especially because of those annoying quirks, like the box acting all wonky. But hey, the project turned out alright. It Isn't the best but you move with what you get.
