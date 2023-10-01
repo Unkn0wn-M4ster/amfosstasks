@@ -18,7 +18,7 @@
 ![LASTDEV](https://github.com/Unkn0wn-M4ster/amfosstasks/blob/main/tasks/Task01/codes/Screenshot%20from%202023-08-28%2015-02-42.png)
 
 # GIT COMMANDS I LEARNED IN THIS -> 
-*git status :shows modified files
+git status :shows modified files
 *git init :makes it as a git repository 
 *git add : adds all the files to commit
 *git commit -m "Message": commit your content, a message can be added to display
