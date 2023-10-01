@@ -17,7 +17,7 @@
 
 # 6) THE FINAL ScreenShot 
 
-![LASTDEV](https://github.com/Unkn0wn-M4ster/amfosstasks/blob/main/tasks/Task01/codes/Screenshot%20from%202023-08-28%2015-02-42.png)
+![Screenshot from 2023-08-28 15-01-11](https://github.com/Unkn0wn-M4ster/amfosstasks/assets/105506071/255833b4-e08c-4021-b0af-aee7fc148519)
 
 # Git Commands Learned
 
