@@ -39,10 +39,10 @@ So far, it has been smooth, except for the minor hiccup where I missed joining a
 | [Task_06](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task06)   | Cricket Vault | Completed |
 | [Task_07](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task07)   | AK-47℃ | Completed |
 | [Task_08](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task08)   | Poke-Search! | Completed |
-| [Task_09]  | GeoQuest | Not Attempted |
+| Task_09  | GeoQuest | Not Attempted |
 | Task_10  | RuskOS | Went Through (No valuable progress) |
 | Task_11  | TinkerCAD | Not Attempted |
-| [Task_12]  | Godot | Not Attempted |
+| Task_12  | Godot | Not Attempted |
 | [Task_13](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task13)   | Vim | Completed |
 | [Task_14](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task14)   | Bandit | Completed |
 | [Task_15](https://github.com/Unkn0wn-M4ster/amfosstasks/tree/main/tasks/Task15)   | Project Euler | 4 out of 5 Questions Done |
