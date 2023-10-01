@@ -1,4 +1,4 @@
-# amfosstasks
+# AmFoss 
 
 Too however this may concern I am Kartik T Nair currently pursuing btech cse in amrita.My hobbies include things from gaming to learning about new thing tech.
 
