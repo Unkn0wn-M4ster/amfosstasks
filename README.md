@@ -6,7 +6,7 @@ I am Kartik T Nair, currently pursuing B.Tech in CSE at Amrita University. My ho
 
 ## 1 Why should we choose you?
 
-Explaining why you should choose me is challenging since I'm not aware of others' capabilities. However, I assure you of my wholehearted dedication to everything I do. (P.S. I'll be able to vibe about LOTR.)
+Explaining why you should choose me is challenging since I'm not aware of others' capabilities. However, I assure you of my wholehearted dedication to everything I do.
 But some of my qualitites which might be aligned to the club is ->
 - Disciplined (If and when required I will put my heart and soul into my work)
 - Good Communication Skills
@@ -15,7 +15,7 @@ But some of my qualitites which might be aligned to the club is ->
 ## 2 What are your goals for the next six months? How will you accomplish them?
 
 Explaining why you should choose me is challenging since I'm not aware of others' capabilities. However, I assure you of my wholehearted dedication to everything I do. (P.S. I'll be able to vibe about LOTR.)
-My primary goal is to get into the club, after which I would love to make wholehearted contributions. However, I am not in a position to specify how I can contribute at the moment.
+My primary goal is to get into the club, after which I would love to make wholehearted contributions. However, I am not in a position to specify how I can contribute at the moment.But One of my goals will Definetly be to be good enough to be selected to 
 
 ## 3 How will you contribute back to the club?
 
