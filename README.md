@@ -30,7 +30,7 @@ So far, it has been smooth, except for the minor hiccup where I missed joining a
 
 | Task List | Description | Status |
 | :-:       | :-:         | :-:    |
-| [Task_0](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/task0)   | Installing Ubuntu | Completed |
+| [Task_0](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task00)   | Installing Ubuntu | Completed |
 | [Task_01](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task01)   | Terminal Wizard | Completed |
 | [Task_00](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task02)   | Installing Ubuntu | Completed |
 | [Task_03](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task03)   | Hello, World | Completed |
@@ -45,4 +45,4 @@ So far, it has been smooth, except for the minor hiccup where I missed joining a
 | [Task_12]  | Godot | Not Attempted |
 | [Task_13](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task13)   | Vim | Completed |
 | [Task_14](https://github.com/Unkn0wn-M4ster/amfosstasks/edit/main/tasks/Task14)   | Bandit | Completed |
-| [Task_15](https://github.com/Unkn0wn-M4ster/amfosstasks/tree/main/tasks/task15)   | Project Euler | 4 out of 5 Questions Done |
+| [Task_15](https://github.com/Unkn0wn-M4ster/amfosstasks/tree/main/tasks/Task15)   | Project Euler | 4 out of 5 Questions Done |
