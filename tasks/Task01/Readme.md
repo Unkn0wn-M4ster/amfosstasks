@@ -16,8 +16,9 @@
 **https://github.com/TheHuntsman4/TheFinalSpell**
 
 # 6) THE FINAL ScreenShot 
+![Screenshot from 2023-08-28 15-02-42](https://github.com/Unkn0wn-M4ster/amfosstasks/assets/105506071/4037a1a0-c6b3-434f-8376-a4f8cf89df3e)
 
-![Screenshot from 2023-08-28 15-01-11](https://github.com/Unkn0wn-M4ster/amfosstasks/assets/105506071/255833b4-e08c-4021-b0af-aee7fc148519)
+
 
 # Git Commands Learned
 
