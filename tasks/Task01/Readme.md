@@ -18,19 +18,19 @@
 ![LASTDEV](https://github.com/Unkn0wn-M4ster/amfosstasks/blob/main/tasks/Task01/codes/Screenshot%20from%202023-08-28%2015-02-42.png)
 
 # GIT COMMANDS I LEARNED IN THIS -> 
-git status :shows modified files
-*git init :makes it as a git repository 
-*git add : adds all the files to commit
-*git commit -m "Message": commit your content, a message can be added to display
-*git push : pushes all the contents in the local branch to remote branch
-*git pull : merges all the contents in the local branch from the remote branch
-*git branch : lists all the branches present
-*git checkout : switches from one branch to another branch 
-*git clone : copy's all the content from the hosted URL
-*git log : shows all the commits of the current branch
-*git checkout example.txt : Copy a file from another branch to the current branch
+git status :shows modified files \
+*git init :makes it as a git repository \ 
+*git add : adds all the files to commit \
+*git commit -m "Message": commit your content, a message can be added to display \
+*git push : pushes all the contents in the local branch to remote branch \
+*git pull : merges all the contents in the local branch from the remote branch \
+*git branch : lists all the branches present \
+*git checkout : switches from one branch to another branch \ 
+*git clone : copy's all the content from the hosted URL \
+*git log : shows all the commits of the current branch \
+*git checkout example.txt : Copy a file from another branch to the current branch \
 
 # TERMINAL COMMANDS I LEARNED ->
-*cd <directory_path> : Change the current working directory to a specified directory
-*ls : List files and directories in the current directory
-*mkdir <directory_name>:Create a new directory
+*cd <directory_path> : Change the current working directory to a specified directory \
+*ls : List files and directories in the current directory \
+*mkdir <directory_name>:Create a new directory \
