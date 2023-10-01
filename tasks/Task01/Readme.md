@@ -15,6 +15,3 @@
 # 5) THE LAST LINK BEING 
 **https://github.com/TheHuntsman4/TheFinalSpell**
 
-
-
-![harryPotter](https://startefacts.com/upload//upload/news/904321647281.webp)
