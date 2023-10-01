@@ -16,8 +16,10 @@ I would put my whole hearted dedication into the club , The concept of Open sour
 
 # 4(Edit after finishing the recrutiment tasks)
 I genuinely enjoyed doing most of the tasks even tho some wanted to make me go insane and lose my mind but we move forward . Overall it was a good experience and a Fun time as well.
-
 This was me when things didnt work as intended
+
+
+
 ![Cute Cat](https://imgflip.com/s/meme/Cute-Cat.jpg)
 
 
