@@ -17,20 +17,25 @@
 
 ![LASTDEV](https://github.com/Unkn0wn-M4ster/amfosstasks/blob/main/tasks/Task01/codes/Screenshot%20from%202023-08-28%2015-02-42.png)
 
-# GIT COMMANDS I LEARNED IN THIS -> 
-git status :shows modified files \
-*git init :makes it as a git repository \ 
-*git add : adds all the files to commit \
-*git commit -m "Message": commit your content, a message can be added to display \
-*git push : pushes all the contents in the local branch to remote branch \
-*git pull : merges all the contents in the local branch from the remote branch \
-*git branch : lists all the branches present \
-*git checkout : switches from one branch to another branch \ 
-*git clone : copy's all the content from the hosted URL \
-*git log : shows all the commits of the current branch \
-*git checkout example.txt : Copy a file from another branch to the current branch \
+# Git Commands Learned
 
-# TERMINAL COMMANDS I LEARNED ->
-*cd <directory_path> : Change the current working directory to a specified directory \
-*ls : List files and directories in the current directory \
-*mkdir <directory_name>:Create a new directory \
+- `git status`: Shows modified files.
+- `git init`: Initializes a directory as a Git repository.
+- `git add .`: Adds all files to the staging area for commit.
+- `git commit -m "Message"`: Commits changes with a descriptive message.
+- `git push`: Pushes committed changes from the local branch to the remote branch.
+- `git pull`: Fetches changes from the remote repository and merges them into the local branch.
+- `git branch`: Lists all branches present in the repository.
+- `git checkout <branch_name>`: Switches from the current branch to another branch.
+- `git clone <repository_url>`: Copies all content from the hosted repository to your local machine.
+- `git log`: Shows all commits of the current branch.
+- `git checkout <branch_name> example.txt`: Copies a file from another branch to the current branch.
+
+---
+
+# Terminal Commands Learned
+
+- `cd <directory_path>`: Changes the current working directory to the specified directory.
+- `ls`: Lists files and directories in the current directory.
+
+- `mkdir` <directory_name>:Create a new directory 
