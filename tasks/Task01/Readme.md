@@ -30,12 +30,14 @@
 - `git clone <repository_url>`: Copies all content from the hosted repository to your local machine.
 - `git log`: Shows all commits of the current branch.
 - `git checkout <branch_name> example.txt`: Copies a file from another branch to the current branch.
-
 ---
 
 # Terminal Commands Learned
 
 - `cd <directory_path>`: Changes the current working directory to the specified directory.
 - `ls`: Lists files and directories in the current directory.
-
-- `mkdir <directory_name>`:Create a new directory 
+- `ls -a`: List All files and directories including hidden and everything else
+- `mv`: used to move a file or directory from one place to another
+- `clear` : used to clear the contents in terminal so you have a clear terminal
+- `mkdir <directory_name>`:Create a new directory
+- `|`: pipe basically redirects one command to another so that u can do multiple things together
